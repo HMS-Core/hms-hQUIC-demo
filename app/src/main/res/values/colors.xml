@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="cronetsample_primary">#00bad2</color>
+    <color name="cronetsample_primary_dark">#00a3b8</color>
+    <color name="cronetsample_blank">#424242</color>
+    <color name="cronetsample_accent">#FF4081</color>
+
+    <color name="text_light">@android:color/white</color>
+    <color name="text_dark">#616161</color>
+    <color name="light_grey">#f5f5f5</color>
+</resources>
