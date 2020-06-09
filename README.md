@@ -3,9 +3,9 @@
 ## Table of Contents
 
  * [Introduction](#introduction)
- * [Getting Started](#Getting Started)
+ * [Getting Started](#getting-started)
  * [Supported Environments](#supported-environments)
- * [Result](#Result)
+ * [Result](#result)
  * [License](#license)
 
 ## Introduction
