@@ -3,33 +3,25 @@
 ## Table of Contents
 
  * [Introduction](#introduction)
- * [Installation](#installation)
- * [Configuration ](#configuration )
+ * [Getting Started](#Getting Started)
  * [Supported Environments](#supported-environments)
- * [Sample Code](# Sample Code)
+ * [Result](#Result)
  * [License](#license)
 
 ## Introduction
-   With the hms-hQUIC-demo, you will experience how to interact with the backend server using
-   the QUIC protocol through hQUICKit.
+   With the hms-hQUIC-demo, you will experience how to interact with the backend server using the
+   QUIC protocol through hQUIC Kit.
 
-## Installation
-   Install the program on Android mobile phones.
+## Getting Started
+   1. Check whether the Android studio development environment is ready.
+   2. Open the demo project, and modify the URL in the HQUICActivity.java file. The URL must be the URL of the GET request and support the QUIC protocol.
+   3. Run the demo on your Android device or emulator.
 
 ## Supported Environments
-   HMS Core (APK) 5.0.0 or later has been installed on Android phones.
+   Android SDK Version >= 19 and JDK version >= 1.7 is recommended.
 
-## Configuration
-   No additional configuration is required.
-
-## Sample Code
-   hms-hQUIC-demo integrates hQUICKit into the app, enable
-   Cronet, and use Cronet APIs to implement communication based on the HTTP/2 and QUIC protocols.
-
-   Download hms-hQUIC-demo code in Downloading Server Sample Code.
-
-   Code location：hms-hQUIC-demo/app/src/main/java/com/huawei/hquickitdemo
+## Result
+   <img src="images/result.jpg" width = 30% height = 30%>
 
 ## License
    hms-hQUIC-demo is licensed under the [Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
-
