@@ -1,4 +1,4 @@
-# hms-hQUIC-demo
+# HMS hQUIC Demo
 
 ## Table of Contents
 
