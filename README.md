@@ -1,5 +1,5 @@
 # HMS hQUIC Demo
-
+English | [中文](https://github.com/HMS-Core/hms-hQUIC-demo/blob/master/README-zh.md)
 ## Table of Contents
 
  * [Introduction](#introduction)
