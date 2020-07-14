@@ -23,4 +23,4 @@
    <img src="images/result.jpg" width = 30% height = 30%>
 
 ## 授权许可
-   hms-hQUIC-demo is licensed under the [Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
+   华为hQUIC Kit示例代码经过 [Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0)授权许可。
