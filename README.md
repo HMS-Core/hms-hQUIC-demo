@@ -15,7 +15,7 @@
 ## Getting Started
    1. Check whether the Android studio development environment is ready.
    2. Open the demo project, and modify the URL in the HQUICActivity.java file. The URL must be the URL of the GET request and support the QUIC protocol.
-   3. Run the demo on your Android device or emulator.
+   3. Run the demo on your Android device.
 
 ## Supported Environments
    Android SDK Version >= 19 and JDK version >= 1.7 is recommended.
