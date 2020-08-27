@@ -91,7 +91,7 @@ public class HQUICService {
      * @param method method Method type.
      * @return UrlRequest urlrequest instance.
      */
-    private UrlRequest builRequest(String url, String method) {
+    private UrlRequest buildRequest(String url, String method) {
         CronetEngine cronetEngine = createCronetEngine(url);
         UrlRequest.Builder requestBuilder =
                 cronetEngine.newUrlRequestBuilder(url, callback, executor).setHttpMethod(method);
@@ -107,7 +107,7 @@ public class HQUICService {
      */
     public void sendRequest(String url, String method) {
         Log.i(TAG, "callURL: url is " + url + "and method is " + method);
-        UrlRequest urlRequest = builRequest(url, method);
+        UrlRequest urlRequest = buildRequest(url, method);
         if (null != urlRequest) {
             urlRequest.start();
         }
