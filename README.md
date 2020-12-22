@@ -14,7 +14,7 @@ English | [中文](https://github.com/HMS-Core/hms-hQUIC-demo/blob/master/README
 
 ## Getting Started
    1. Check whether the Android studio development environment is ready.
-   2. Open the demo project, and modify the URL in the HQUICActivity.java file. The URL must be the URL of the GET request and support the QUIC protocol.
+   2. Open the demo project, and modify the URL in the **HQUICActivity.java** file. The URL must be the URL of the GET request and support the QUIC protocol.
    3. Run the demo on your Android device.
 
 ## Supported Environments
@@ -34,4 +34,4 @@ If you have questions about how to use HMS samples, try the following options:
 If you run into a bug in our samples, please submit an [issue](https://github.com/HMS-Core/hms-hQUIC-demo/issues) to the Repository. Even better you can submit a [Pull Request](https://github.com/HMS-Core/hms-hQUIC-demo/pulls) with a fix.
 
 ## License
-   hms-hQUIC-demo is licensed under the [Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
+hms-hQUIC-demo is licensed under the [Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
